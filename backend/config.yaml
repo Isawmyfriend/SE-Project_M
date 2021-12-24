@@ -1,0 +1,8 @@
+server:
+  port: 3000
+
+database:
+  host: "mongodb+srv://root:root@cluster0.4wqg1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+
+auth:
+  signinkey: only_me
